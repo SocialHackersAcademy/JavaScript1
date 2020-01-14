@@ -12,3 +12,7 @@ console.log(addToShoppingCart("water"));
 console.log(addToShoppingCart("cola"));
 console.log(addToShoppingCart("melons"));
 console.log(addToShoppingCart("bananas"));
+
+//this is a test commit
+
+
